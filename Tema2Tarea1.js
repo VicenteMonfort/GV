@@ -20,5 +20,6 @@ for (i=0;i<=d.length-2;i++){
     i++;
 }
 //Cambiando
+//Modificado por otro usuario (lo he hecho en github para simular)
 
 
